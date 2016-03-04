@@ -1,6 +1,5 @@
 # Mensajer-a
 
-//Proyecto construcción de software
 
 //PROYECTO QUE BUSCA CREAR UNA APLICACIÓN PARA EL REGISTRO DE CORRESPONDENCIA DE UNA COMPAÑIA
 
