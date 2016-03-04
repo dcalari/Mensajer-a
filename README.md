@@ -184,3 +184,5 @@ int main()
 	} while (salir == false);
 	return 0;
 } 
+ 
+ la lista se debe ejecutar desde el inicio
