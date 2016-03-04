@@ -185,4 +185,4 @@ int main()
 	return 0;
 } 
  
- la lista se debe ejecutar desde el inicio
+
